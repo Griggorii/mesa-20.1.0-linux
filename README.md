@@ -28,8 +28,15 @@ $$ sudo mv mesa-master /home/griggorii
 
 $$ cd /home/griggorii/mesa-master
 
+$$ sudo ln -s /usr/include/locale.h /usr/include/xlocale.h
+
 $$ sudo ninja -C .build
 
 $$ sudo ninja -C .build install
 
 $$ sudo rm -rf /home/griggorii
+_______________________________________________________________________________________________________________________
+
+Problem build ?
+
+
