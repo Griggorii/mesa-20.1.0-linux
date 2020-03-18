@@ -37,6 +37,10 @@ $$ sudo ninja -C .build install
 $$ sudo rm -rf /home/griggorii
 _______________________________________________________________________________________________________________________
 
+Problem version meson ? meson.build
+
+tar xvpf mesa-20.1.0.tar.xz edit meson.build
+
 Problem build ?
 
 Example python3.8 not python3.8?
