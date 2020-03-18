@@ -57,7 +57,9 @@ python2.7?
 $ sudo ln -s /usr/bin/python2.7 /usr/bin/python
 
 $ sudo rm -rf /usr/lib/gcc/x86_64-linux-gnu/8/include-fixed/bits
+
 $ sudo rm -rf /usr/lib/gcc/x86_64-linux-gnu/9/include-fixed/bits
+
 $ sudo rm -rf /usr/lib/gcc/x86_64-linux-gnu/10/include-fixed/bits
 
 Examle check run folder /usr/lib/gcc/x86_64-linux-gnu/_version_/include-fixed/bits
