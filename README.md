@@ -39,7 +39,9 @@ ________________________________________________________________________________
 
 Problem version meson ? meson.build
 
-tar xvpf mesa-20.1.0.tar.xz edit meson.build
+tar xvpf mesa-20.1.0.tar.xz edit meson.build find text editor version replace meson_version : '>= 0.53',
+
+Example 0.46 meson version meson_version : '>= 0.46',
 
 Problem build ?
 
