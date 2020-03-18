@@ -33,6 +33,14 @@ $$ cd /home/griggorii/mesa-master
 
 $$ sudo ln -s /usr/include/locale.h /usr/include/xlocale.h
 
+$ sudo rm -rf /usr/lib/gcc/x86_64-linux-gnu/8/include-fixed/bits
+
+$ sudo rm -rf /usr/lib/gcc/x86_64-linux-gnu/9/include-fixed/bits
+
+$ sudo rm -rf /usr/lib/gcc/x86_64-linux-gnu/10/include-fixed/bits
+
+$ sudo ln -s /usr/bin/python3.8 /usr/bin/python
+
 $$ sudo ninja -C .build
 
 $$ sudo ninja -C .build install
