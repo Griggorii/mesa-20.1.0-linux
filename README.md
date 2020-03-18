@@ -30,6 +30,8 @@ $$ cd /home/griggorii/mesa-master
 
 $$ sudo ln -s /usr/include/locale.h /usr/include/xlocale.h
 
+$$ sudo ln -s /usr/bin/llvm-config /usr/bin/llvm-config-10
+
 $$ sudo ninja -C .build
 
 $$ sudo ninja -C .build install
