@@ -54,3 +54,11 @@ $ sudo rm -rf /usr/lib/gcc/x86_64-linux-gnu/10/include-fixed/bits
 Examle check run folder /usr/lib/gcc/x86_64-linux-gnu/_version_/include-fixed/bits
 sudo rm -rf /usr/lib/gcc/x86_64-linux-gnu/........version........./include-fixed/bits
 
+______________________________________________________________________________________
+
+LLVM PROBLEM ?
+
+$$ sudo tar xvpf llvm.tar.xz -C /usr/include/llvm-9
+
+$$ sudo tar xvpf llvm.tar.xz -C /usr/include/llvm-____EXAMPLE___VERSION!
+
