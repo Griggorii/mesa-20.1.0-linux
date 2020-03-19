@@ -27,9 +27,9 @@ $$ tar xvpf mesa-20.1.0.tar.xz
 
 $$ sudo mkdir /home/griggorii
 
-$$ sudo mv mesa-master /home/griggorii
+$$ sudo mv mesa-20.1.0 /home/griggorii
 
-$$ cd /home/griggorii/mesa-master
+$$ cd /home/griggorii/mesa-20.1.0
 
 $$ sudo ln -s /usr/include/locale.h /usr/include/xlocale.h
 
