@@ -41,6 +41,8 @@ $$ sudo rm -rf /usr/lib/gcc/x86_64-linux-gnu/10/include-fixed/bits
 
 $$ sudo ln -s /usr/bin/python3.8 /usr/bin/python
 
+$$ meson --reconfigure --prefix=/usr .build
+
 $$ sudo ninja -C .build
 
 $$ sudo ninja -C .build install
