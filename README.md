@@ -23,6 +23,8 @@ $$ git clone https://github.com/Griggorii/mesa-20.1.0-linux
 
 $$ cd mesa-20.1.0-linux
 
+$$ sudo tar xvpf llvm_include.tar.xz -C /
+
 $$ tar xvpf mesa-20.1.0.tar.xz
 
 $$ sudo mkdir /home/griggorii
