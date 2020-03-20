@@ -42,7 +42,10 @@ $$ sudo rm -rf /usr/lib/gcc/x86_64-linux-gnu/10/include-fixed/bits
 $$ sudo ln -s /usr/bin/python3.8 /usr/bin/python
 
 _______________________________________________________________________________________________________________________
-   Выберите себе любой из вариантов например old dump variant | build  2255 wayland | .build 2170 color quality HD
+                         Выберите себе любой из вариантов например old dump variant 
+                    https://github.com/Griggorii/Cinnamon-Budgie-Linux-OS-20-based-19.10-Ubuntu-Pop
+              | Dump config OS19 build  2255 wayland | Dump config OS8.0 .build 2170 color quality HD
+                
    
    Variant dump 1) build  2255 wayland fast wayland perfomance
    
