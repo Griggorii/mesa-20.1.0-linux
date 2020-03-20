@@ -42,9 +42,9 @@ $$ sudo rm -rf /usr/lib/gcc/x86_64-linux-gnu/10/include-fixed/bits
 $$ sudo ln -s /usr/bin/python3.8 /usr/bin/python
 
 _______________________________________________________________________________________________________________________
-   Выберите себе любой из вариантов например old dump variant
+   Выберите себе любой из вариантов например old dump variant | build  2255 wayland | .build 2170 color HD
    
-   Variant dump 1) build  2255 без точки работал очень быстро в wayland fast wayland perfomance
+   Variant dump 1) build  2255 wayland fast wayland perfomance
    
    Variant dump 2) .build 2170 color best qlity hd gamma qlity 
 
