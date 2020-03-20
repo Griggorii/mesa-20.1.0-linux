@@ -47,10 +47,10 @@ ________________________________________________________________________________
               | Dump config OS19 build  2255 wayland | Dump config OS8.0 .build 2170 color quality HD
                 
    
-   Variant dump 1) build  2255 wayland fast wayland perfomance
+   Variant dump 1) .build 2170 color best quality hd gamma quality
    
-   Variant dump 2) .build 2170 color best quality hd gamma quality
-
+   Variant dump 2) build  2255 wayland fast wayland perfomance
+   
 $$ sudo ninja -C .build install
 
 $$ sudo ninja -C build install
