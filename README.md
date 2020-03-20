@@ -41,7 +41,11 @@ $$ sudo rm -rf /usr/lib/gcc/x86_64-linux-gnu/10/include-fixed/bits
 
 $$ sudo ln -s /usr/bin/python3.8 /usr/bin/python
 
-$$ sudo ninja -C .build
+_______________________________________________________________________________________________________________________
+   Variant dump 1) build  2255 /  Variant dump 2) .build 2170 выберите себе любой из вариантов например build без точки работал очень быстро в wayland
+
+
+$$ sudo ninja -C build install
 
 $$ sudo ninja -C .build install
 
