@@ -1,10 +1,10 @@
 # mesa-20.1.0-linux
-mesa , 20.1.0 , linux , vulkan
+mesa , 20.1.0 , linux , vulkan , предупреждаю собирается под патент если вы унесли отсюда это н ваш метод компиляции , а взятй отсюда ибо вы не понимаете что clangcodegen это статическая библиотека , но вы её ни в каноникал ни в арч продукции не сгенерировали вместе с остальными так что , а у меня есть эти библиотеки из другой OS они там сгенерировались.
 
 
-                                       Griggorii@gmail.com commerical patent (cached)
+                                Griggorii@gmail.com commerical patent (cached)
 
-                                                   mesa-20.1.0
+                                                mesa-20.1.0
 
                  mesa my backend menteined my include generate .build/src special OS_INCLUDE
 
