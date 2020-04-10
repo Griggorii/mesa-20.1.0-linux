@@ -25,6 +25,8 @@ $$ cd mesa-20.1.0-linux
 
 $$ sudo tar xvpf llvm_include.tar.xz -C /
 
+$$ sudo tar xvpf x86_include.tar.xz -C /
+
 $$ tar xvpf mesa-20.1.0.tar.xz
 
 $$ sudo mkdir /home/griggorii
