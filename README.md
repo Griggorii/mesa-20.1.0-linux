@@ -43,6 +43,16 @@ $$ sudo rm -rf /usr/lib/gcc/x86_64-linux-gnu/9/include-fixed/bits
 
 $$ sudo rm -rf /usr/lib/gcc/x86_64-linux-gnu/10/include-fixed/bits
 
+$$ sudo ln -s /usr/lib/x86_64-linux-gnu/libdrm.so.2.4.0 /usr/lib/x86_64-linux-gnu/libdrm.so
+
+$$ sudo ln -s /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.0.0 /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1 /usr/lib/x86_64-linux-gnu/libdrm_amdgpu.so
+
+$$ sudo ln -s /usr/lib/x86_64-linux-gnu/libdrm_intel.so.1.0.0 /usr/lib/x86_64-linux-gnu/libdrm_intel.so
+
+$$ sudo ln -s /usr/lib/x86_64-linux-gnu/libdrm_radeon.so.1 /usr/lib/x86_64-linux-gnu/libdrm_radeon.so /usr/lib/x86_64-linux-gnu/libdrm_radeon.so.1.0.1
+
+$$ sudo ln -s /usr/lib/x86_64-linux-gnu/libdrm_nouveau.so.2.0.0 /usr/lib/x86_64-linux-gnu/libdrm_nouveau.so.2 /usr/lib/x86_64-linux-gnu/libdrm_nouveau.so
+
 $$ sudo ln -s /usr/bin/python3.8 /usr/bin/python
 
 _______________________________________________________________________________________________________________________
